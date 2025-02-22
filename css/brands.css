@@ -314,6 +314,7 @@ header {
     color: hsl(0, 18%, 97%);
     font-size: 14px;
     padding: 60px 0 20px;
+      display:flex;
   }
   .footer p{
     color: #fcfbfb;
